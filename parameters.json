@@ -65,7 +65,7 @@
             "value": "azureops"
         },
         "adminPublicKey": {
-            "value": null
+            "value": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDp/SrxUUbaIkc+iGI1yiHOqvmIZBfd7Xr9eWzlJcfr8FfG/Le5lT5UItapSrrTaEbtSlamSuLlJAcAaA/EwNpKweV8Sefvf3DHIGaohwVzsE8Fgn1S6k9ncv9UeVmGW8m75iUGjhxLfaeROZFQ7J1KAyQgc1evHsBviNe28jUUhTqvjjaHxYb4eAaQDvi459x6l6/4P4wNw2icbxrhv+pLMXpw8t9bBmPh2US0h4RjdMB8IPXyjGSZzVzxmWw0YeFWn9nEd28iQtYpvKG+ybuIDn0El0xHnYwoqEJ5b+orpE9fzZhgPdqdDQfvQBHX8ZVcgcsPh6XtWPqVIQRnRr+H"
         }
     }
 }
